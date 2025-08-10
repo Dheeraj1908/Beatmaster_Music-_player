@@ -1,0 +1,1 @@
+The project has a voice assistant which plays music for you according to yor need like you need to say your genre or domain of music in order to get the required output. The music player voice assistant is named as BeatMaster. Which he will introduce in the start. Also its a zip folder which is uploaded in the repository.
